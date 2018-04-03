@@ -1,0 +1,12 @@
+Name: Lulit Mulugeta
+Id: ATR/3806/08
+section 1
+
+This is a simple demonstration of Denial of service attack. It is implemented using javscript, nodejs. 
+It shows a simple interaction between a node server and a client. As a sample i have used json objects as student and their department. 
+The client requests for the department of  student by typing in the name of the students. When the cilent sends a request, the request is sent repeatedley in a loop.
+The number of request depends on the button clicked for demonstration purpose. The high number of request makes the server slower to respond or even makes the page unresponsive and crashes the server.
+The name of students in the json file are:
+LULIT, RAHEL, KIMIYA, ELBETEL, EDOM
+
+ 
